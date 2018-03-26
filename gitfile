@@ -3,5 +3,6 @@
 int main()
 {
 printf("hello fostin");
+printf("Its a test for pull command");
 return 0;
 }
